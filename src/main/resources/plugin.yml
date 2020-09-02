@@ -1,0 +1,26 @@
+#插件名稱
+name: tokaBasePlugin
+
+#插件主檔案
+main: dev.toka.pl.tokaBasePlugin.Main
+
+#插件版本
+version: ${project.version}
+
+#核心API版本
+api: ["1.0.11"]
+
+#插件載入選項[POSTWORLD, STARTUP]
+load: POSTWORLD
+
+#插件作者
+author: zisunny104
+
+#插件描述
+description: "[prjToka]基礎 插件"
+
+#插件網站
+#website: ""
+
+#插件依賴
+#depend: []
